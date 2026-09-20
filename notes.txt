@@ -1,0 +1,15 @@
+github -
+create a simple project and commit to the repository
+
+it is available on local machine -> transfer this project from local to github
+make sure you have git installed in your machine
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sohelqaabbasi/GitBatch27.git
+git push -u origin main
+
+change this
+
